@@ -1,0 +1,7 @@
+C:\Users\Папа\source\repos\TreeDictionary\TreeDictionary\bin\Debug\TreeDictionary.exe.config
+C:\Users\Папа\source\repos\TreeDictionary\TreeDictionary\bin\Debug\TreeDictionary.exe
+C:\Users\Папа\source\repos\TreeDictionary\TreeDictionary\bin\Debug\TreeDictionary.pdb
+C:\Users\Папа\source\repos\TreeDictionary\TreeDictionary\obj\Debug\TreeDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Папа\source\repos\TreeDictionary\TreeDictionary\obj\Debug\TreeDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Папа\source\repos\TreeDictionary\TreeDictionary\obj\Debug\TreeDictionary.exe
+C:\Users\Папа\source\repos\TreeDictionary\TreeDictionary\obj\Debug\TreeDictionary.pdb
